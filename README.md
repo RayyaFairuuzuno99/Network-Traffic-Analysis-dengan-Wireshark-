@@ -95,7 +95,7 @@ Protocol: DNS
 
 ### Screenshot
 
-![DNS Query](images/Capture.png)
+![DNS Query](images/Capture.PNG)
 
 
 
@@ -133,7 +133,7 @@ The packets were identified by the TCP flags:
 
 ### Screenshot
 
-![TCP Three-Way Handshake](images/Capture2.png)
+![TCP Three-Way Handshake](images/Capture2.PNG)
 
 ---
 
@@ -216,7 +216,7 @@ Instead, the application data appears as encrypted TLS traffic.
 
 ### Screenshot
 
-![TLS / HTTPS Traffic](images/Capture3.png)
+![TLS / HTTPS Traffic](images/Capture3.PNG)
 
 ---
 
